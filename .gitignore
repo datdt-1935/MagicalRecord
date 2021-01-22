@@ -17,6 +17,8 @@ xcuserdata
 profile
 *.moved-aside
 
+.build/
+
 DerivedData
 Carthage/Build
 
